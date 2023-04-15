@@ -4,6 +4,7 @@ pub mod logging;
 pub mod cpu;
 pub mod core;
 pub mod bus;
+pub mod cartridge;
 
 
 fn main() {
@@ -14,5 +15,5 @@ fn main() {
         },
     }
 
-    
+
 }
